@@ -19,7 +19,7 @@ FeedbackIQ aims to transform unstructured customer feedback into actionable prod
 
 A lightweight web application that analyzes customer feedback, identifies recurring themes, highlights pain points, and recommends product improvement opportunities.
 
-4. MVP Features
+4.MVP Features
 
 1. Enter customer feedback or upload a sample CSV.
 2. Categorize feedback into meaningful themes.
