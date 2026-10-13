@@ -14,6 +14,7 @@ F012,"I cannot compare two products side by side",Product Discovery,Negative,Med
 F013,"The payment confirmation message is unclear",Payments,Negative,Medium
 F014,"The app is easy to navigate",Usability,Positive,Low
 F015,"Support gave me an incorrect answer",Customer Support,Negative,High
+
 F016,"Product images take too long to appear",Performance,Negative,Medium
 F017,"The search bar is difficult to locate",Product Discovery,Negative,Medium
 F018,"My card was charged twice for one order",Payments,Negative,Critical
@@ -24,3 +25,28 @@ F022,"I cannot find products by brand name",Product Discovery,Negative,Medium
 F023,"UPI payment keeps failing",Payments,Negative,High
 F024,"The buttons are clearly labeled",Usability,Positive,Low
 F025,"I had to contact support three times for one issue",Customer Support,Negative,High
+F026,"The home page loads almost instantly",Performance,Positive,Low
+F027,"Search suggestions disappear before I can select one",Product Discovery,Negative,Medium
+F028,"The payment screen does not explain the convenience fee",Payments,Negative,Medium
+F029,"I accidentally removed an item because the controls are confusing",Usability,Negative,Medium
+F030,"Support helped me track my missing order",Customer Support,Positive,Low
+F031,"The app takes too long to open on my phone",Performance,Negative,High
+F032,"Recommended products are unrelated to what I searched",Product Discovery,Negative,High
+F033,"The payment page shows an error after a successful transaction",Payments,Negative,High
+F034,"The product page is well organized and easy to read",Usability,Positive,Low
+F035,"I could not reach customer support when I needed help",Customer Support,Negative,High
+F036,"Videos buffer repeatedly while I browse products",Performance,Negative,High
+F037,"There is no clear way to sort products by price",Product Discovery,Negative,Medium
+F038,"I do not know whether my refund has been initiated",Payments,Negative,High
+F039,"The checkout steps are simple and understandable",Usability,Positive,Low
+F040,"The support team resolved my complaint on the first contact",Customer Support,Positive,Low
+F041,"The app responds slowly when switching between pages",Performance,Negative,Medium
+F042,"Search does not recognize common spelling mistakes",Product Discovery,Negative,Medium
+F043,"I cannot use my preferred payment method",Payments,Negative,High
+F044,"The product images and descriptions are easy to understand",Usability,Positive,Low
+F045,"I received no update after raising a support ticket",Customer Support,Negative,Medium
+F046,"The app crashes repeatedly during browsing",Performance,Negative,High
+F047,"I cannot find products matching my size requirements",Product Discovery,Negative,High
+F048,"The payment was declined without a useful explanation",Payments,Negative,High
+F049,"The checkout form asks for information without explaining why",Usability,Negative,Medium
+F050,"The support team followed up and confirmed my issue was fixed",Customer Support,Positive,Low
