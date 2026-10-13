@@ -1,0 +1,26 @@
+feedback_id,feedback_text,expected_category,expected_sentiment,expected_severity
+F001,"The app takes too long to load the home page",Performance,Negative,High
+F002,"The checkout page freezes when I tap Pay",Payments,Negative,Critical
+F003,"I cannot find the product specifications easily",Product Discovery,Negative,Medium
+F004,"The navigation menu is confusing to use",Usability,Negative,Medium
+F005,"Customer support resolved my issue quickly",Customer Support,Positive,Low
+F006,"The app crashes when I open my order history",Performance,Negative,High
+F007,"The search results do not match my query",Product Discovery,Negative,High
+F008,"The payment failed but money was deducted",Payments,Negative,Critical
+F009,"The product filters are easy to understand",Usability,Positive,Low
+F010,"I waited two days for a support response",Customer Support,Negative,Medium
+F011,"The app becomes slow during peak hours",Performance,Negative,High
+F012,"I cannot compare two products side by side",Product Discovery,Negative,Medium
+F013,"The payment confirmation message is unclear",Payments,Negative,Medium
+F014,"The app is easy to navigate",Usability,Positive,Low
+F015,"Support gave me an incorrect answer",Customer Support,Negative,High
+F016,"Product images take too long to appear",Performance,Negative,Medium
+F017,"The search bar is difficult to locate",Product Discovery,Negative,Medium
+F018,"My card was charged twice for one order",Payments,Negative,Critical
+F019,"The text is too small on the product page",Usability,Negative,Medium
+F020,"The support agent was helpful and polite",Customer Support,Positive,Low
+F021,"The app crashes when I apply a filter",Performance,Negative,High
+F022,"I cannot find products by brand name",Product Discovery,Negative,Medium
+F023,"UPI payment keeps failing",Payments,Negative,High
+F024,"The buttons are clearly labeled",Usability,Positive,Low
+F025,"I had to contact support three times for one issue",Customer Support,Negative,High
